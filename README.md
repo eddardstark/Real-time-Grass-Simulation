@@ -1,8 +1,6 @@
 # Real-time-Grass-Simulation
 
-+ -> decrease grass field area/subtract blades
-
-- -> increase grass field area/add blades
++/- increase/decrease grass field area/subtract blades
 
 L -> increase grass height
 
