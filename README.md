@@ -1,19 +1,33 @@
 # Real-time-Grass-Simulation
 
 + -> decrease grass field area/subtract blades
+
 - -> increase grass field area/add blades
+
 L -> increase grass height
+
 l -> decrease grass height
+
 LEFT -> Rotate camera right
+
 RIGHT-> Rotate camera left
+
 UP -> Rotate camera up
+
 DOWN-> Rotate camera down
+
 m/M -> Switch on : "a rat in the field" effect.
+
 w/W ->  move front on grass 
+
 s/S -> move back on grass 
+
 d/D -> move right on grass 
+
 a/A -> move left on grass 
+
 click left/right on the screen to input wind directions.
+
 ESC -> escape program.
 
 
